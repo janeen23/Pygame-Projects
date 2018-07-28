@@ -2,5 +2,5 @@
 Simple Games Written in Python Using Pygame Module
 
 [Game 1] Sky High
-Control Hot Air Balloon Using Left & Right Arrow Keys To Avoid Blocks.
-The Longer You Survive, The Higher Your Score.
+1. Control Hot Air Balloon Using Left & Right Arrow Keys To Avoid Blocks.
+2. The Longer You Survive, The Higher Your Score.
